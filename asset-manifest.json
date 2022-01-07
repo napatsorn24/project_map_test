@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/napatsorn24.github.io/project_map_test/static/js/main.1a6d90e9.chunk.js",
+    "main.js.map": "/napatsorn24.github.io/project_map_test/static/js/main.1a6d90e9.chunk.js.map",
+    "runtime-main.js": "/napatsorn24.github.io/project_map_test/static/js/runtime-main.2e0c0d81.js",
+    "runtime-main.js.map": "/napatsorn24.github.io/project_map_test/static/js/runtime-main.2e0c0d81.js.map",
+    "static/css/2.464e1e64.chunk.css": "/napatsorn24.github.io/project_map_test/static/css/2.464e1e64.chunk.css",
+    "static/js/2.838c67c7.chunk.js": "/napatsorn24.github.io/project_map_test/static/js/2.838c67c7.chunk.js",
+    "static/js/2.838c67c7.chunk.js.map": "/napatsorn24.github.io/project_map_test/static/js/2.838c67c7.chunk.js.map",
+    "index.html": "/napatsorn24.github.io/project_map_test/index.html",
+    "precache-manifest.2a3a3f03478eb0a04fb90c344c5a5368.js": "/napatsorn24.github.io/project_map_test/precache-manifest.2a3a3f03478eb0a04fb90c344c5a5368.js",
+    "service-worker.js": "/napatsorn24.github.io/project_map_test/service-worker.js",
+    "static/css/2.464e1e64.chunk.css.map": "/napatsorn24.github.io/project_map_test/static/css/2.464e1e64.chunk.css.map",
+    "static/js/2.838c67c7.chunk.js.LICENSE.txt": "/napatsorn24.github.io/project_map_test/static/js/2.838c67c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e0c0d81.js",
+    "static/css/2.464e1e64.chunk.css",
+    "static/js/2.838c67c7.chunk.js",
+    "static/js/main.1a6d90e9.chunk.js"
+  ]
+}
